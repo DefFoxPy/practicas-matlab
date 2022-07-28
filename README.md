@@ -8,7 +8,7 @@ _Programas de practica creados en Matlab 2014_
 
 ## Wiki 📖
 
-* [Wiki](https://github.com/tu/practicas-matlab/wiki)
+* [Wiki](https://github.com/juanmpy05/practicas-matlab/wiki)
 
 ## Autores ✒️
 
